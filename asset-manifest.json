@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/canvasAudioWaveAnimation/static/css/main.bcec997f.css",
+    "main.js": "/canvasAudioWaveAnimation/static/js/main.a1ae02b2.js",
+    "static/js/787.96a4f688.chunk.js": "/canvasAudioWaveAnimation/static/js/787.96a4f688.chunk.js",
+    "index.html": "/canvasAudioWaveAnimation/index.html",
+    "main.bcec997f.css.map": "/canvasAudioWaveAnimation/static/css/main.bcec997f.css.map",
+    "main.a1ae02b2.js.map": "/canvasAudioWaveAnimation/static/js/main.a1ae02b2.js.map",
+    "787.96a4f688.chunk.js.map": "/canvasAudioWaveAnimation/static/js/787.96a4f688.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bcec997f.css",
+    "static/js/main.a1ae02b2.js"
+  ]
+}
